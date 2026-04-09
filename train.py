@@ -9,7 +9,6 @@ from ultralytics import YOLO
 import numpy as np
 
 
-
 # ============================================
 # 2. SET YOUR DATASET PATH
 # ============================================
